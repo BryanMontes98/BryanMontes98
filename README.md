@@ -32,13 +32,13 @@
 <br>
 
 ## 📊 GitHub Stats:
-![BryanMontes98's Stats](https://github-readme-stats.vercel.app/api?username=BryanMontes98&theme=react&show_icons=true&hide_border=false&count_private=true)
+![BryanMontes98's Stats](https://github-readme-stats.vercel.app/api?username=BryanMontes98&theme=react&show_icons=true&hide_border=false&count_private=true)<br><br>
 ![BryanMontes98's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BryanMontes98&theme=react&hide_border=false) <br><br>
 ![BryanMontes98's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanMontes98&theme=react&show_icons=true&hide_border=false&layout=compact) <br>
 
 <br>
 
-### 🐍 My github contributions
+### 🐍 My Github contributions
 ![snake gif](https://github.com/BryanMontes98/BryanMontes98/blob/output/github-snake.svg)
 
 <br>

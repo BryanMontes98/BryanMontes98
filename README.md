@@ -1,11 +1,11 @@
 <div align="center">
 
-  # 🌠 About Me
+  # 🌠 -About Me-
   *Full-stack developer from SENA with a background as a software analysis and development technologist. I am committed to continuous learning, with a strong emphasis on Front-end development.*
   
 <br>
 
-# 🚀 Tech Stacks
+# 🚀 -Tech Stacks-
 
 <br>
 
@@ -31,19 +31,19 @@
 
 <br>
 
-## 📊 GitHub Stats:
+# 📊 -GitHub Stats-
 ![BryanMontes98's Stats](https://github-readme-stats.vercel.app/api?username=BryanMontes98&theme=react&show_icons=true&hide_border=false&count_private=true)<br><br>
 ![BryanMontes98's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BryanMontes98&theme=react&hide_border=false) <br><br>
 ![BryanMontes98's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanMontes98&theme=react&show_icons=true&hide_border=false&layout=compact) <br>
 
 <br>
 
-### 🐍 My Github contributions
+# 🐍 -My Github Contributions-
 ![snake gif](https://github.com/BryanMontes98/BryanMontes98/blob/output/github-snake.svg)
 
 <br>
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>

@@ -1,13 +1,12 @@
+
 <div align="center">
-
-  # 🌠 -About Me-
-  *Full-stack developer from SENA with a background as a software analysis and development technologist. I am committed to continuous learning, with a strong emphasis on Front-end development.*
   
-<br>
+  # 🌠 -About Me-
+  *Full-stack developer from SENA with a background as a software analysis and development technologist. I am committed to continuous learning, with a strong emphasis on Front-end development.* <br>
+  
+<img src="https://github.com/BryanMontes98/BryanMontes98/blob/main/img-banner-programar.jpeg" alt="Descripción" width="100%" height="300"> <br>
 
-# 🚀 -Tech Stacks-
-
-<br>
+# 🚀 -Tech Stacks- <br>
 
 ## 1️⃣ Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 

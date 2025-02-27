@@ -33,6 +33,9 @@
 
 <br>
 
+### 🐍 Contribuciones en GitHub
+![snake gif](https://github.com/BryanMontes98/BryanMontes98/blob/output/github-contribution-grid-snake.svg)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
